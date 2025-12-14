@@ -1,5 +1,5 @@
 # See https://meta.discourse.org/t/objects-type-for-theme-setting/305009
-buttons:
+custom_text_block:
   type: objects
   default:
     - name: button 1
